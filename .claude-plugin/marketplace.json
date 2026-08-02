@@ -1,0 +1,13 @@
+{
+  "name": "toolkit-marketplace",
+  "owner": "Chadwick Puterbaugh",
+  "plugins": [
+    {
+      "id": "architecture-lead",
+      "name": "Architecture Lead",
+      "description": "Principal-level architecture consulting persona: leads discovery sessions, generates design options with trade-off analysis, and produces client-ready decision briefs.",
+      "source": "https://dev.azure.com/puterbaughcw/consulting/_git/agents.architecture-lead",
+      "version": "latest"
+    }
+  ]
+}
