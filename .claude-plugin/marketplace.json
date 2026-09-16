@@ -1,6 +1,8 @@
 {
   "name": "toolkit-marketplace",
-  "owner": "Chadwick Puterbaugh",
+  "owner": {
+    "name": "Chadwick Puterbaugh"
+  },
   "plugins": [
     {
       "id": "architecture-lead",
